@@ -11,6 +11,10 @@
   max-width: 960px;
   align-items: center;
 }
+
+.navbar ul li {
+  padding-right: 3px;
+}
 .title {
   margin-right: auto;
   font-weight: bold;
